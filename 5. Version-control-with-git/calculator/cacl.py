@@ -39,7 +39,7 @@ def calculator():
         except ValueError:
             print("Invalid input. Please enter numbers only.")
 
-    # change from pc
+
 # Run the calculator
 if __name__ == "__main__":
     calculator()
