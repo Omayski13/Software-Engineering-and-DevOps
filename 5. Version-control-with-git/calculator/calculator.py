@@ -8,6 +8,7 @@ def calculator():
     print("5. Exit")
 
     # changes by omayski13
+    # new changes by omayski13
 
     while True:
         try:
