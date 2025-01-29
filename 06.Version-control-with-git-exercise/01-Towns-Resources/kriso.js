@@ -1,1 +1,1 @@
-bla bla bla ala abala
+kriso e pich
